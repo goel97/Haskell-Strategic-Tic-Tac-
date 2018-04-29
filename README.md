@@ -1,1 +1,0 @@
-# Haskell-Strategic-Tic-Tac-
